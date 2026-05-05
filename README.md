@@ -4,7 +4,7 @@
 
 **Cybersecurity Engineer** · Threat Detection · Offensive Security · SOC Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-frieman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-frieman-829857275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://samfrieman.github.io/portfolio-site/)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat)](https://www.comptia.org)
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat)](https://www.comptia.org)
